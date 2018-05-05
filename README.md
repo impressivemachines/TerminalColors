@@ -23,4 +23,4 @@ BTW `echo $ESC_RESET` restores normal terminal defaults.
 
 Here's an example:
 
-![Example output](https://github.com/impressivemachines/TerminalColors/blob/master/example.png)
+![Example output](example.png)
